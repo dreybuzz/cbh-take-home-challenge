@@ -1,0 +1,13 @@
+{
+  "name": "cbh-take-home-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dreybuzz/cbh-take-home-challenge.git",
+  "author": "Idowu Damilare Muyiwa Gabriel <dammy@damilareidowu.com>",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "dependencies": {
+    "jest": "^29.4.1"
+  }
+}
